@@ -30,4 +30,18 @@ With a background in identifying customers' technical landscapes and effectively
 hardware and multiple SaaS products from the Cisco Security Suite, bundled into an EA,
 and deployed with in house Professional Services and Project Management.
 
+**Sales Engineer**  
+*December 2019 - August 2020*  
+
+- Provided technical support and solutions to the sales team and clients.
+- Communicated complex technical concepts clearly and effectively.
+- Tailor technical descriptions to customer solutions and author customer design documents.
+
+**Cisco Commerce Workspace (CCW) Specialist**  
+*May 2016 - December 2019*  
+
+- Worked alongside the field specialists to uncover customer outcomes and map correct solutions for customer needs.
+- Responsible for CCW configuration, the output of customer quote and creation of cost Bill of Materials (BoM), and accompanying solution documentation.
+- Liaised with partners and suppliers to negotiate commercials and manage deal registrations. 
+
 
